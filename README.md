@@ -3,6 +3,8 @@
 
 An AI-powered web application that analyzes resumes and compares them with job descriptions to evaluate candidate suitability. The system provides feedback on skills, keyword matching, and overall resume quality.
 
+🔗 Live Demo: https://resumind-yb.vercel.app/
+
 ## Features
 
 * Upload resume (PDF or text)
